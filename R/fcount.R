@@ -1,5 +1,8 @@
 #' make a sorted frequency table for a factor
 #'
+#' will count the number of occurances for each
+#' factor level
+#'
 #' @param x a factor
 #'
 #' @return A tibble

@@ -13,7 +13,8 @@ fcount(x)
 A tibble
 }
 \description{
-make a sorted frequency table for a factor
+will count the number of occurances for each
+factor level
 }
 \examples{
 fcount(iris$Species)
