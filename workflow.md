@@ -34,4 +34,7 @@ makes factors less annoying
   * use `other_pkg::its_function()` in your .R where needed
 * `usethis::use_github()`
 * `use_readme_rmd()` and edit the README.Rmd, pref including usage examples.
-* `install()`
+* knit README.Rmd
+* `check()`
+* `install`
+* commit and push
